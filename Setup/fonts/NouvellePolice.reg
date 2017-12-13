@@ -1,0 +1,38 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Arena Condensed Bold (True Type)"="Arena Condensed Bold.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Arena Condensed (True Type)"="Arena Condensed.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Futura Light BT (True Type)"="Futura Light BT.TTF"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Futura LT Condensed Light (True Type)"="Futura LT Condensed Light.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Futura LT Condensed Light_0 (True Type)"="Futura LT Condensed Light_0.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Georgia (True Type)"="Georgia.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"lcd (True Type)"="lcd.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"myriad (True Type)"="myriad.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"myriadb (True Type)"="myriadb.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"MyriadPro-Regular (True Type)"="MyriadPro-Regular.otf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Univers LT 59 Ultra Condensed (True Type)"="Univers LT 59 Ultra Condensed.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"onlywif_ (True Type)"="onlywif_.ttf"
